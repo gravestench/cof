@@ -1,4 +1,4 @@
-package cof
+package pkg
 
 //go:generate stringer -linecomment -type WeaponClass -output weapon_class_string.go
 //go:generate string2enum -samepkg -linecomment -type WeaponClass -output weapon_class_string2enum.go

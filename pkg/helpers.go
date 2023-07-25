@@ -1,4 +1,4 @@
-package cof
+package pkg
 
 // FPS returns FPS value basing on cof's speed
 func (c *COF) FPS() float64 {

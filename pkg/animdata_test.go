@@ -1,4 +1,4 @@
-package cof
+package pkg
 
 import (
 	"log"
@@ -7,7 +7,7 @@ import (
 )
 
 func TestLoad(t *testing.T) {
-	testFile, fileErr := os.Open("testdata/AnimData.d2")
+	testFile, fileErr := os.Open("data/AnimData.d2")
 	if fileErr != nil {
 		t.Error("cannot open test data file")
 		return
@@ -39,7 +39,7 @@ func TestLoad(t *testing.T) {
 }
 
 func TestLoad_BadData(t *testing.T) {
-	testFile, fileErr := os.Open("testdata/BadData.d2")
+	testFile, fileErr := os.Open("data/BadData.d2")
 	if fileErr != nil {
 		t.Error("cannot open test data file")
 		return

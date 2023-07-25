@@ -1,4 +1,4 @@
-package cof
+package pkg
 
 // FrameEvent represents a single frame of animation.
 type FrameEvent int

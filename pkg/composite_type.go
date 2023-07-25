@@ -1,4 +1,4 @@
-package cof
+package pkg
 
 const (
 	unknown = "Unknown"

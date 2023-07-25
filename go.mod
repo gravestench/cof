@@ -1,5 +1,5 @@
 module github.com/gravestench/cof
 
-go 1.16
+go 1.19
 
-require github.com/gravestench/bitstream v0.0.0-20210818234514-9fca7e40e2b3
+require github.com/gravestench/bitstream v0.0.0-20230725041847-d02b4f2bac63

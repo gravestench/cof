@@ -1,4 +1,4 @@
-package cof
+package pkg
 
 // DrawEffect is a draw effect
 type DrawEffect int

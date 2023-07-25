@@ -1,4 +1,4 @@
-package cof
+package pkg
 
 // CofLayer is a structure that represents a single layer in a COF file.
 type CofLayer struct {

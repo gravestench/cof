@@ -1,4 +1,4 @@
-package cof
+package pkg
 
 // AnimationDataRecord represents a single record from the AnimData.d2 file
 type AnimationDataRecord struct {

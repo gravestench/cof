@@ -1,11 +1,11 @@
-package cof
+package pkg
 
 import (
 	"errors"
 	"fmt"
 	"strings"
 
-	"github.com/OpenDiablo2/bitstream"
+	"github.com/gravestench/bitstream"
 )
 
 const (

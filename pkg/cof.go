@@ -1,9 +1,9 @@
-package cof
+package pkg
 
 import (
 	"strings"
 
-	"github.com/OpenDiablo2/bitstream"
+	"github.com/gravestench/bitstream"
 )
 
 const (
@@ -32,7 +32,6 @@ const (
 const (
 	badCharacter = string(byte(0))
 )
-
 
 // New creates a new COF
 func New() *COF {
