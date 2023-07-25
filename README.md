@@ -1,7 +1,9 @@
 <!-- PROJECT LOGO -->
 <h1 align="center">COF</h1>
 <p align="center">
-  Package for transcoding COF animation files found in Diablo II.
+  COF file decoder.
+   <br />
+ An arcane format, used by Blizzard's Diablo II. 
   <br />
   <br />
   <a href="https://github.com/gravestench/cof/issues">Report Bug</a>
