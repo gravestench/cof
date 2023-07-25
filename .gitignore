@@ -1,3 +1,4 @@
+*.sum
 .DS_Store
 .idea
 .idea/*
